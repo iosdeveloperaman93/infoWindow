@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'infoWindow_Example', :exclusive => true do
+  pod 'infoWindow', :path => '../'
+end
+
+target 'infoWindow_Tests', :exclusive => true do
+  pod 'infoWindow', :path => '../'
+
+  
+end
