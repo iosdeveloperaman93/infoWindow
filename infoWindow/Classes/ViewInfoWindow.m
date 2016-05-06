@@ -7,7 +7,6 @@
 //
 
 #import "ViewInfoWindow.h"
-#import "SecondViewController.h"
 
 #define viewInfoWindowTag           101
 
