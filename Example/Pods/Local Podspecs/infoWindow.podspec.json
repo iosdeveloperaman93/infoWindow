@@ -1,0 +1,19 @@
+{
+  "name": "infoWindow",
+  "version": "0.1.0",
+  "summary": "A short description of infoWindow.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/infoWindow",
+  "license": "MIT",
+  "authors": {
+    "Aman Gangurde": "iosdeveloper.aman@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/infoWindow.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "infoWindow/Classes/**/*"
+}

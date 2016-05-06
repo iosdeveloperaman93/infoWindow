@@ -1,0 +1,6 @@
+framework module infoWindow {
+  umbrella header "infoWindow-umbrella.h"
+
+  export *
+  module * { export * }
+}

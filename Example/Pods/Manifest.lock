@@ -1,0 +1,14 @@
+PODS:
+  - infoWindow (0.1.0)
+
+DEPENDENCIES:
+  - infoWindow (from `../`)
+
+EXTERNAL SOURCES:
+  infoWindow:
+    :path: ../
+
+SPEC CHECKSUMS:
+  infoWindow: e50955348627451769a638140497b811a67a4190
+
+COCOAPODS: 0.39.0

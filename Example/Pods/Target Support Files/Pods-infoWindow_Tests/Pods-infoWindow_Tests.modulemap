@@ -1,0 +1,6 @@
+framework module Pods_infoWindow_Tests {
+  umbrella header "Pods-infoWindow_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
